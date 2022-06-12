@@ -1,0 +1,92 @@
+body {
+    background: url(images/background.jpg) no-repeat fixed;
+    background-size: cover;
+}
+
+
+.boxcentro {
+    background-color: rgba(0, 0, 0, 0.500);
+    width: 1200px;
+    height: auto;
+    margin: 2% auto;
+    border-radius: 15px;
+}
+
+
+.boxlogo {
+    text-align: center;
+}
+
+.logo {
+    width: 250px;
+    height: auto;
+    margin-top: 8%;
+}
+
+.slogan {
+    color: limegreen;
+    font-family: 'Poppins', sans-serif, "helvetica";
+    font-weight: bolder;
+    margin-top: 0%;
+    margin-bottom: 2px;
+}
+
+.boxcomandi {
+    background-color: limegreen;
+    width: 1000px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    text-align: center;
+}
+
+.boxprincipale {
+    width: 1000px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-bottom: 100px;
+    font-family: 'Poppins', sans-serif, "helvetica";
+    color: white;
+    font-weight: lighter;
+}
+
+section {
+    padding-bottom: 2%;
+}
+
+.scooter1 > input, h2 {
+    display: inline-block;
+    margin: 5px;
+}
+
+#carica1 {
+    background-color: rgb(221, 179, 101);
+    width: 350px;
+    height: 1cm;
+    border-radius: 10px;
+}
+
+.scooter2 > input, h2 {
+    display: inline-block;
+    margin: 5px;
+}
+
+#carica2 {
+    background-color: limegreen;
+    width: 600px;
+    height: 1cm;
+    border-radius: 10px;
+}
+
+.scooter3 > input, h2 {
+    display: inline-block;
+    margin: 5px;
+}
+
+#carica3 {
+    background-color: tomato;
+    width: 125px;
+    height: 1cm;
+    border-radius: 10px;
+}
